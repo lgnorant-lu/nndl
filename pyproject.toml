@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "nndl"
+name = "ming-nndl"
 version = "0.0.1"
 authors = [
   { name="Ming", email="contact@example.com" },
@@ -35,3 +35,4 @@ dependencies = [
 "Homepage" = "https://github.com/lgnorant-lu/nndl"
 "Bug Tracker" = "https://github.com/lgnorant-lu/nndl/issues"
 "Repository" = "https://github.com/lgnorant-lu/nndl"
+"PyPI" = "https://pypi.org/project/ming-nndl/"

@@ -1,4 +1,4 @@
-# nndl - Neural Network and Deep Learning
+# ming-nndl - Neural Network and Deep Learning
 
 > **"我们不生产水，我们只是大自然的搬运工"** 🚰
 
@@ -18,7 +18,7 @@
 本项目将课程老师提供的原始代码**封装为标准 Python 包**并发布到 PyPI，使得你可以在任何 Python 环境中**一键安装**：
 
 ```bash
-pip install nndl
+pip install ming-nndl
 ```
 
 这样就能直接在 Colab、Jupyter Notebook 或本地环境中运行书中的实验代码，无需手动管理文件。
@@ -33,7 +33,7 @@ pip install nndl
 ## 安装
 
 ```bash
-pip install nndl
+pip install ming-nndl
 ```
 
 ## 功能特性

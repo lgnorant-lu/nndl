@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/nndl
+      url: https://pypi.org/p/ming-nndl
     permissions:
       id-token: write  # IMPORTANT: 这是 OIDC 认证所必需的
     
